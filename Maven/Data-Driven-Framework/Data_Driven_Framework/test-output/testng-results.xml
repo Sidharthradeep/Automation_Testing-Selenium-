@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-15T11:07:55 IST" name="Default suite" finished-at="2025-01-15T11:08:24 IST" duration-ms="28518">
+    <groups>
+    </groups>
+    <test started-at="2025-01-15T11:07:55 IST" name="Default test" finished-at="2025-01-15T11:08:24 IST" duration-ms="28518">
+      <class name="testpkg.Fblogintest">
+        <test-method is-config="true" signature="open()[pri:0, instance:testpkg.Fblogintest@6f1de4c7]" started-at="2025-01-15T11:07:55 IST" name="open" finished-at="2025-01-15T11:07:59 IST" duration-ms="3837" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method signature="login_valid_check()[pri:0, instance:testpkg.Fblogintest@6f1de4c7]" started-at="2025-01-15T11:07:59 IST" name="login_valid_check" finished-at="2025-01-15T11:08:24 IST" duration-ms="24637" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_valid_check -->
+      </class> <!-- testpkg.Fblogintest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
