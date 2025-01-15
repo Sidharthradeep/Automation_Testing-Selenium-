@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-15T16:00:01 IST" name="Default suite" finished-at="2025-01-15T16:00:10 IST" duration-ms="8492">
+    <groups>
+    </groups>
+    <test started-at="2025-01-15T16:00:01 IST" name="Default test" finished-at="2025-01-15T16:00:10 IST" duration-ms="8492">
+      <class name="Testpkg.testclass">
+        <test-method is-config="true" signature="open()[pri:0, instance:Testpkg.testclass@128d2484]" started-at="2025-01-15T16:00:01 IST" name="open" finished-at="2025-01-15T16:00:05 IST" duration-ms="3176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method signature="valid_login()[pri:0, instance:Testpkg.testclass@128d2484]" started-at="2025-01-15T16:00:05 IST" name="valid_login" finished-at="2025-01-15T16:00:10 IST" duration-ms="5273" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- valid_login -->
+        <test-method is-config="true" signature="close()[pri:0, instance:Testpkg.testclass@128d2484]" started-at="2025-01-15T16:00:10 IST" name="close" finished-at="2025-01-15T16:00:10 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Testpkg.testclass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
